@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my GitHub profile!
+
+- 🌱 I’m currently studying MSc in Computational Statistics and Machine Learning at UCL.
+- 🎓 I did my undergrad in the Chinese University of Hong Kong (CUHK), with Physics major and Statistics minor.
+- ✨ Here are some of my personal projects (which can be showcased publicly)
+  - "Can You Explain the Price of Electricity?", Data challenge by QRT.
+    - 🔗 https://github.com/chantomkit/QRT2023
+  - "Recsys for Real Data Analysis", In-class competition of Recommender Systems course in CUHK.
+    - 🔗 https://github.com/chantomkit/RecSys
 
 <!--
 **chantomkit/chantomkit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
