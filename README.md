@@ -1,6 +1,6 @@
 ### Hi there 👋 Welcome to my GitHub profile!
 
-- 🌱 I’m currently studying MSc in Computational Statistics and Machine Learning at UCL.
+- 🌱 I’m currently studying MSc in Computational Statistics and Machine Learning at University College London (UCL).
 - 🎓 I did my undergrad in the Chinese University of Hong Kong (CUHK), with Physics major and Statistics minor.
 - ✨ Here are some of my personal projects (which can be showcased publicly)
   - "Can You Explain the Price of Electricity?", Data challenge by QRT.
