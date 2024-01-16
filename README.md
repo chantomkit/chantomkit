@@ -1,7 +1,7 @@
 ### Hi there 👋 Welcome to my GitHub profile!
 
 - 🌱 I’m currently studying MSc in Computational Statistics and Machine Learning at University College London (UCL).
-- 🎓 I studied BSc Physics with Statistics minor in the Chinese University of Hong Kong (CUHK).
+- 🎓 I studied BSc Physics with Statistics minor at The Chinese University of Hong Kong (CUHK).
 - ✨ Here are some of my personal projects (which can be showcased publicly)
   - "Can You Explain the Price of Electricity?", Data challenge by QRT.
     - 🔗 https://github.com/chantomkit/QRT2023
