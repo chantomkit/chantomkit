@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently studying MSc in Computational Statistics and Machine Learning at University College London (UCL).
 - 🎓 I studied BSc Physics with Statistics minor at The Chinese University of Hong Kong (CUHK).
-- ✨ Feel free to explore the pinned repos below for some of my personal projects!
+- ✨ Feel free to explore the pinned repos below for some of my projects!
 
 <!--
 **chantomkit/chantomkit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
