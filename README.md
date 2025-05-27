@@ -1,8 +1,8 @@
 ### Hi there 👋 Welcome to my GitHub profile!
 
-- 🌱 I’m currently studying MSc in Computational Statistics and Machine Learning at University College London (UCL).
-- 🎓 I studied BSc Physics with Statistics minor at The Chinese University of Hong Kong (CUHK).
-  - I have co-authored two publications in machine learning in solid state physics.
+- :briefcase: I’m currently working as a Data Scientist at Tesco Technology.
+- :mortar_board: I studied MSc Computational Statistics and Machine Learning at University College London (UCL) and BSc Physics with Statistics minor at The Chinese University of Hong Kong (CUHK).
+- :page_with_curl: During my Bachelor's study, I have co-authored two publications in machine learning in solid state physics.
   - [Parameter-Free and Electron Counting Satisfied Material Representation for Machine Learning Potential Energy and Force Fields](https://pubs.acs.org/doi/10.1021/acs.jpclett.3c03250)
   - [Machine-Learning-Assisted Acceleration on High-Symmetry Materials Search: Space Group Predictions from Band Structures](https://pubs.acs.org/doi/10.1021/acs.jpcc.2c03156)
 - ✨ Feel free to explore the pinned repos below for some of my projects!
